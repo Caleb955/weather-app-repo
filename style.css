@@ -33,7 +33,7 @@ h1, h2, h3, h4, p {
     align-items: center;
     padding-block: 4rem;
     border-radius: 3.75rem;
-    place-self: center;
+    margin-inline: auto;
     user-select: none;
 }
 
